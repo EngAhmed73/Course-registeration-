@@ -42,7 +42,7 @@ This Java-based Course Registration System simulates a simplified university reg
 
 ## Authors
 
-- [TAhmed (me )]
+- [Ahmed (me )]
 - [Kareem]
 - [Wael  ]
 - [Amro  ]
