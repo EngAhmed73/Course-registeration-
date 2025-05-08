@@ -42,10 +42,10 @@ This Java-based Course Registration System simulates a simplified university reg
 
 ## Authors
 
-- [Team Member 1 Name]
-- [Team Member 2 Name]
-- [Team Member 3 Name]
-- [Team Member 4 Name]
+- [TAhmed (me )]
+- [Kareem]
+- [Wael  ]
+- [Amro  ]
 
 > *Names are listed in the comment section at the top of the `Main.java` file as per course guidelines.*
 
